@@ -1,3 +1,4 @@
+
 class Graph:
     def __init__(self, vertices):
         # Initialize the graph with the number of vertices
@@ -67,4 +68,3 @@ class Graph:
 
         # Reverse the path and return it
         return path[::-1]
-
