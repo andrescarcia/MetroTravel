@@ -17,7 +17,7 @@ pip install -r requirements.txt
 Para usar Metro Travel, ejecute el siguiente comando en su terminal:
 
 ```
-py metro_travel.py
+python3 main.py
 ```
 
 Esto iniciará la aplicación Metro Travel. Puede ingresar los aeropuertos de origen y destino, y si tiene o no una visa para los aeropuertos que la requieren. La aplicación mostrará la ruta más barata y el costo.
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 To use Metro Travel, run the following command in your terminal:
 
 ```
-py metro_travel.py
+python3 main.py
 ```
 
 This will start the Metro Travel application. You can enter the origin and destination airports, and whether or not you have a visa for airports that require one. The application will then display the cheapest route and the cost.
