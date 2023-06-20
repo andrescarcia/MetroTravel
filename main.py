@@ -43,7 +43,7 @@ def main():
         graph.add_visa_required(airport_indices[airport])
 
     # Create a MetroTravelUI object and run the application
-    app = MetroTravelUI(graph, airport_codes)
+    app = MetroTravelUI(graph, airport_codes, edges)
     app.run()
 
 if __name__ == "__main__":
